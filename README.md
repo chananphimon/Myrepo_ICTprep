@@ -7,3 +7,6 @@ Chananphimon Chunchaowarit
 
 ## Email
 chananphimon.chu@student.mahidol.edu
+
+## my hometown
+Nakhon Pathom
